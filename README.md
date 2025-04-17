@@ -8,7 +8,7 @@
 
 ### Home Page:
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1558616629-899031969d5e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fG11c2hyb29tfGVufDB8fDB8fHww" width="800" height="auto" alt="Home Page of Mushroom Classification App">
+  <img src="https://images.unsplash.com/photo-1558616629-899031969d5e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fG11c2hyb29tfGVufDB8fDB8fHww" width="800" height="800" alt="Home Page of Mushroom Classification App">
 </p>
 
 ### Mushroom Classification Page:
@@ -18,7 +18,7 @@
 
 ### Mushroom Classification Result:
 <p align="center">
-  <img src=""D:\SmartInternz\output.png"" width="800" height="auto" alt="Classification Results Display">
+  <img src="https://drive.google.com/file/d/1gQ9ZSEXVydIrZwm0XUdYouLbkYFCJnGp/view?usp=sharing" width="800" height="auto" alt="Classification Results Display">
 </p>
 
 ## **Installation and Setup**
