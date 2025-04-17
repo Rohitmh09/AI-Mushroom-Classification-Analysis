@@ -8,17 +8,13 @@
 
 ### Home Page:
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1558616629-899031969d5e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fG11c2hyb29tfGVufDB8fDB8fHww" width="800" height="800" alt="Home Page of Mushroom Classification App">
-</p>
+ <img src="https://drive.google.com/uc?export=view&id=1yBSh7zuDdUp8OQcxDxwxwZCf2UYlkPQO" width="800" height="auto" alt="Your Image Description">
 
-### Mushroom Classification Page:
-<p align="center">
-  <img src="https://plus.unsplash.com/premium_photo-1704737966313-746586e51913?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bXVzaHJvb218ZW58MHx8MHx8fDA%3D" width="800" height="auto" alt="Classification Page Interface">
 </p>
 
 ### Mushroom Classification Result:
 <p align="center">
-  <img src="https://drive.google.com/file/d/1gQ9ZSEXVydIrZwm0XUdYouLbkYFCJnGp/view?usp=sharing" width="800" height="auto" alt="Classification Results Display">
+ <img src="https://drive.google.com/uc?export=view&id=1gQ9ZSEXVydIrZwm0XUdYouLbkYFCJnGp" width="800" height="auto" alt="Classification Results Display">
 </p>
 
 ## **Installation and Setup**
