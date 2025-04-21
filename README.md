@@ -71,21 +71,18 @@ AI-Mushroom-Classification-Analysis-master/
 │   ├── test/          # Test dataset
 │   └── train/         # Training dataset
 ├── Flask/
-│   ├── static/        # Static assets (CSS, JS, images)
+│   ├── static/        # Static assets (JS)
 │   ├── templates/     # HTML templates
 │   ├── uploads/       # User uploaded images
 │   └── app.py         # Main Flask application
 ├── IBM Files/         # Files related to IBM Cloud deployment
-├── images/            # Project images and screenshots
 ├── Training files/    # Training scripts and notebooks
-├── Mushroom Classification Model.h5   # Trained model file
-├── Mushroom Classification Project Demonstration.mp4  # Demo video
 ├── README.md          # Project documentation
 └── requirements.txt   # Project dependencies
 ```
 
 ## **Technologies Used**
-- Python 3.10
+- Python 3.10.6
 - TensorFlow/Keras
 - Flask
 - HTML/CSS/JavaScript
