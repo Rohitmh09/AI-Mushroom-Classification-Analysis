@@ -80,6 +80,8 @@ AI-Mushroom-Classification-Analysis-master/
 ├── README.md          # Project documentation
 └── requirements.txt   # Project dependencies
 ```
+## **Note**
+--Install Flask and TensorFlow Separately 
 
 ## **Technologies Used**
 - Python 3.10.6
