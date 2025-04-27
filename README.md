@@ -67,6 +67,7 @@ python app.py
 ## **Project Structure**
 ```
 AI-Mushroom-Classification-Analysis-master/
+├── Documentation...
 ├── Dataset/
 │   ├── test/          # Test dataset
 │   └── train/         # Training dataset
